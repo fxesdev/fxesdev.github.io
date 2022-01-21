@@ -1,2 +1,2 @@
-# fxesdev.github.io
-Reverse-engineering guide for non-programmable CASIO scientific calculators.
+# fxesdev docs
+Open-source reverse engineering guide for non-programmable CASIO scientific calculators.
