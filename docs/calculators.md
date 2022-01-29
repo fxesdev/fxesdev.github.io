@@ -1,0 +1,27 @@
+# List of calculators
+
+Non-programmable CASIO fx calculators could include:
+
+- fx-991MS / 570MS / 115MS / 100MS / 95MS / 85MS / 350MS / 82MS (early 2000s)
+- fx-912MS (Japanese version of the fx-115MS)
+- fx-300MS (U.S. model)
+- OH-300MS (Overhead projection model), fx-100AU (Australia specific)
+- fx-500MS (Vietnam)
+- fx-290 (Japan)
+- fx-220 PLUS (International)
+- fx-82AU PLUS II (Australia)
+- fx-100AU PLUS (Australia)
+- fx-82ES PLUS A (China, simplified Chinese messages)
+- fx-82 / 95 / 350 / 570 / 991ES PLUS (c. 2008-09)
+- fx-115 / 300ES PLUS (U.S.)
+- fx-991ES PLUS C (Canadian version of fx-115ES PLUS)
+- fx-82 / 85 / 87 / 991DE PLUS (Germany)
+- fx-85GT/fx-83GT Plus (EU specific)
+- fx-82 / 991ZA Plus (South Africa)
+- fx-373 / 913 / 573 / 993ES (2008) (Japan)
+- fx-375 / 915 / 995ES (2012) (Japan)
+- fx-500 / 570VN PLUS (Vietnam)
+- fx-95 / 96SG PLUS (Singapore)
+- fx-991ID PLUS (Indonesia)
+- OH-300ES PLUS (Overhead projection model)
+- fx-FD10 Pro (International civil engineering model)
